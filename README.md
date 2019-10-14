@@ -1,6 +1,6 @@
 # Tetris clone in Processing
 
-A simple tetris clone written in Processing.
+A simple tetris clone written in OOP style in Processing.
 
 * h/l: Move left/right
 * k: Rotate
